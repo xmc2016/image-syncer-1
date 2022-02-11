@@ -3,5 +3,4 @@ auth:
     username: USERNAME
     password: PASSWORD
 images:
-  gcr.io/kaniko-project/executor:debug,latest: v5cn/kaniko-executor
-  coredns/coredns: 1649214962/coredns
+  k8s.gcr.io/etcd: 1649214962/etcd
